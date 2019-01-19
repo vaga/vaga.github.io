@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vaga.io</title>
+    <link>https://vaga.io/</link>
+    <description>Recent content on vaga.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vaga.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Partager rapidement un fichier avec byt.tl</title>
+      <link>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</link>
+      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</guid>
+      <description>Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec Wayt.
+Nous cherchions un moyen rapide et simple pour partager des fichiers.
+Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)
+Pour faire vite fait le tour, on a :
+ un service en golang qui nous permet de stocker les fichiers (une micro API) une interface web très minimaliste un binaire pour envoyer un fichier depuis un terminal  Le tout est sur une image Docker prêt à être déployé :</description>
+    </item>
+    
+    <item>
+      <title>Installation de Xen sur Ubuntu 14.04</title>
+      <link>https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/</link>
+      <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/</guid>
+      <description>Depuis 3 mois, avec un ami, nous louons un serveur de la gamme IP chez SoYouStart. C&amp;rsquo;est un serveur de 4 coeurs, 48 Go de RAM et 2 To de disc durs. Dans cette gamme, on a aussi le droit à 16 IPs. Nous avons pris cette machine pour pouvoir virtualiser et déployer rapidement nos projets et nos tests.
+Ca a un coût mais il me fallait un serveur personnel alors pourquoi pas partager les frais avec quelqu&amp;rsquo;un et se faire plaisir.</description>
+    </item>
+    
+    <item>
+      <title>Le premier article, c&#39;est quoi ce blog ?</title>
+      <link>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</link>
+      <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</guid>
+      <description>Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
+Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)
+Le principe du blog Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace. En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très hype actuellement.</description>
+    </item>
+    
+  </channel>
+</rss>

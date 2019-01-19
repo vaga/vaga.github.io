@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/</loc>
+    <lastmod>2014-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</loc>
+    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/bienvenue/</loc>
+    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/docker/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/golang/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/nginx/</loc>
+    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/nodejs/</loc>
+    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/posts/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/service/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/sysadmin/</loc>
+    <lastmod>2014-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/</loc>
+    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/ubuntu/</loc>
+    <lastmod>2014-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/web/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/xen/</loc>
+    <lastmod>2014-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/</loc>
+    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
