@@ -5,10 +5,21 @@
     <link>https://vaga.io/posts/</link>
     <description>Recent content in Posts on vaga.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vaga.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discoverly #1 : Hugo, Loki, Todoist...</title>
+      <link>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</guid>
+      <description>En 2019, je souhaite faire un article par mois sur mon blog. Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager. C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.
+Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.
+Hugo Hugo est un générateur de site web statique, développé en Golang.</description>
+    </item>
     
     <item>
       <title>Partager rapidement un fichier avec byt.tl</title>

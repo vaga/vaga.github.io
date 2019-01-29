@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</loc>
     <lastmod>2015-12-24T00:00:00+00:00</lastmod>
   </url>
@@ -29,6 +34,18 @@
   </url>
   
   <url>
+    <loc>https://vaga.io/tags/devops/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/discoverly/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vaga.io/tags/docker/</loc>
     <lastmod>2015-12-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -36,7 +53,19 @@
   
   <url>
     <loc>https://vaga.io/tags/golang/</loc>
-    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/hugo/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/loki/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -54,7 +83,13 @@
   
   <url>
     <loc>https://vaga.io/posts/</loc>
-    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/productivit%C3%A9/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -73,6 +108,12 @@
   <url>
     <loc>https://vaga.io/tags/</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/todoist/</loc>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +137,7 @@
   
   <url>
     <loc>https://vaga.io/</loc>
-    <lastmod>2015-12-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -20,6 +20,24 @@
     </item>
     
     <item>
+      <title>Devops</title>
+      <link>https://vaga.io/tags/devops/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discoverly</title>
+      <link>https://vaga.io/tags/discoverly/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/discoverly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>https://vaga.io/tags/docker/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
@@ -31,9 +49,27 @@
     <item>
       <title>Golang</title>
       <link>https://vaga.io/tags/golang/</link>
-      <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vaga.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://vaga.io/tags/hugo/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loki</title>
+      <link>https://vaga.io/tags/loki/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/loki/</guid>
       <description></description>
     </item>
     
@@ -56,6 +92,15 @@
     </item>
     
     <item>
+      <title>Productivité</title>
+      <link>https://vaga.io/tags/productivit%C3%A9/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/productivit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Service</title>
       <link>https://vaga.io/tags/service/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
@@ -70,6 +115,15 @@
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>https://vaga.io/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Todoist</title>
+      <link>https://vaga.io/tags/todoist/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/todoist/</guid>
       <description></description>
     </item>
     
