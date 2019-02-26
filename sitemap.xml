@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vaga.io/posts/discoverly-2-qwant-afup/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
   </url>
@@ -20,6 +25,12 @@
   <url>
     <loc>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/afup/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -41,7 +52,7 @@
   
   <url>
     <loc>https://vaga.io/tags/discoverly/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,6 +81,12 @@
   </url>
   
   <url>
+    <loc>https://vaga.io/tags/meetup/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vaga.io/tags/nginx/</loc>
     <lastmod>2014-07-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -83,13 +100,25 @@
   
   <url>
     <loc>https://vaga.io/posts/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/privacy/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://vaga.io/tags/productivit%C3%A9/</loc>
     <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaga.io/tags/qwant/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -107,7 +136,7 @@
   
   <url>
     <loc>https://vaga.io/tags/</loc>
-    <lastmod>2014-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,7 +166,7 @@
   
   <url>
     <loc>https://vaga.io/</loc>
-    <lastmod>2019-01-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

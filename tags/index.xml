@@ -5,10 +5,19 @@
     <link>https://vaga.io/tags/</link>
     <description>Recent content in Tags on vaga.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vaga.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Afup</title>
+      <link>https://vaga.io/tags/afup/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/afup/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bienvenue</title>
@@ -31,7 +40,7 @@
     <item>
       <title>Discoverly</title>
       <link>https://vaga.io/tags/discoverly/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vaga.io/tags/discoverly/</guid>
       <description></description>
@@ -74,6 +83,15 @@
     </item>
     
     <item>
+      <title>Meetup</title>
+      <link>https://vaga.io/tags/meetup/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/meetup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nginx</title>
       <link>https://vaga.io/tags/nginx/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
@@ -92,11 +110,29 @@
     </item>
     
     <item>
+      <title>Privacy</title>
+      <link>https://vaga.io/tags/privacy/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Productivité</title>
       <link>https://vaga.io/tags/productivit%C3%A9/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://vaga.io/tags/productivit%C3%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qwant</title>
+      <link>https://vaga.io/tags/qwant/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/tags/qwant/</guid>
       <description></description>
     </item>
     

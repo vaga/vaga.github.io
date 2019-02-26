@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Discoverly on vaga.io</title>
-    <link>https://vaga.io/tags/discoverly/</link>
-    <description>Recent content in Discoverly on vaga.io</description>
+    <title>Qwant on vaga.io</title>
+    <link>https://vaga.io/tags/qwant/</link>
+    <description>Recent content in Qwant on vaga.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vaga.io/tags/discoverly/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vaga.io/tags/qwant/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <description>C&amp;rsquo;est pas évident cette exercice d&amp;rsquo;écrire et de sortir un article par mois. Ca passe vite !
 Voici donc le deuxième Discoverly, il parle de Qwant, de l&amp;rsquo;AFUP Lorraine et 3 liens que j&amp;rsquo;ai jugé intéressant à partager.
 Qwant Qwant est un moteur de recherche développé en France. Il se distingue grandement de ses concurrents car il ne trace pas et ne récupère pas d&amp;rsquo;informations personnelles sur ses utilisateurs.</description>
-    </item>
-    
-    <item>
-      <title>Discoverly #1 : Hugo, Loki, Todoist...</title>
-      <link>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</link>
-      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</guid>
-      <description>En 2019, je souhaite faire un article par mois sur mon blog. Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager. C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.
-Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.
-Hugo Hugo est un générateur de site web statique, développé en Golang.</description>
     </item>
     
   </channel>
