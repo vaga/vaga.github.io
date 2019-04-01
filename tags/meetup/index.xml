@@ -5,10 +5,21 @@
     <link>https://vaga.io/tags/meetup/</link>
     <description>Recent content in Meetup on vaga.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vaga.io/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discoverly #3 : DotGo 2019...</title>
+      <link>https://vaga.io/posts/discoverly-3-dotgo-2019/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/discoverly-3-dotgo-2019/</guid>
+      <description>J&amp;rsquo;ai attendu un peu pour faire ce discoverly. Il va etre centré sur 6 sujets qui ont retenu mon attention à la dotGo 2019. (dont je me souviens, car je n&amp;rsquo;ai pas pris de note&amp;hellip;)
+dotGo 2019 Les dot conférences organisent des journées de talks avec les meilleurs speakers du sujet représenté dont une journée sur le Golang.
+C&amp;rsquo;est ma deuxième participation à une dotGo. Elle se déroule au Théatre de Paris.</description>
+    </item>
     
     <item>
       <title>Discoverly #2 : Qwant, AFUP Lorraine...</title>
