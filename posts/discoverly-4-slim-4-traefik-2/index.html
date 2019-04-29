@@ -89,11 +89,11 @@ d&rsquo;accélerer les développements pour faire évoluer plus rapidement notre
 <p>Slim est un micro framework PHP gérant les couches essentielles d&rsquo;une application HTTP. (routeur, middleware et injection de dépendance)
 La version 4 apporte beaucoup de modularité et d&rsquo;amélioration.</p>
 
-<p>Maintenant, le framework requiert la version PHP 7.1 au minimum. Il est maintenant centré sur les middlewares. Beaucoup configurations
-sont retirées et remplacées par l&rsquo;implémentation de middleware. Par exemple, la gestion d&rsquo;erreur a été migré dans un middleware.
+<p>Maintenant, le framework requiert la version PHP 7.1 au minimum. Il est maintenant centré sur les middlewares. Beaucoup de configurations
+sont retirées et remplacées par l&rsquo;implémentation de middleware. Par exemple, la gestion d&rsquo;erreurs a été migrée dans un middleware.
 Cela va permettre de mieux customiser et intéragir avec les exceptions.</p>
 
-<p>Ils ont aussi découpler les dépendances et améliorer l&rsquo;interopérabilité des implémentations (PSR-7, PSR-11, PSR-15, PSR-17 et aussi
+<p>Ils ont aussi découplé les dépendances et amélioré l&rsquo;interopérabilité des implémentations (PSR-7, PSR-11, PSR-15, PSR-17 et aussi
 sur les interfaces du routeur). Malgré tout, l&rsquo;instanciation d&rsquo;une application Slim reste simple grâce à une factory. (<code>AppFactory::create()</code>)</p>
 
 <p>Ces changements ont rendu le code de Slim plus lisible. On le voit clairement grâce à un benchmark qu&rsquo;Akrabat a publié sur son blog :</p>
@@ -127,13 +127,13 @@ la version stable.</p>
 
 <p>Traefik est un reverse proxy dynamique compatible avec plusieurs providers (Swarm, Rancher, Kubernetes, Consul, Etcd&hellip;)</p>
 
-<p>Cette nouvelle version arrive avec une feature que la communauté attendait depuis 2015, c&rsquo;est le support complet du protocol TCP.</p>
+<p>Cette nouvelle version arrive avec une fonctionnalité que la communauté attendait depuis 2015, c&rsquo;est le support complet du protocol TCP.</p>
 
 <p>Ensuite, elle vient améliorer les étapes intermédiaires entre le frontend et le backend pour plus de modularité. Elle ajoute des middlewares
 pour mettre à jour les requêtes (basic auth, redirection, compression&hellip;). Grâce à cette refactorisation, ils annoncent pouvoir ajouter
 des middlewares plus facilement dans un futur proche. Ils améliorent aussi la syntaxe des règles pour rediriger les requêtes vers les bons services.</p>
 
-<p>Cependant, toutes les features ne sont pas encore terminé. Ils doivent encore ajouter quelques les providers présents dans la première version.
+<p>Cependant, toutes les features ne sont pas encore terminées. Ils doivent encore ajouter quelques providers présents dans la première version.
 Ils ont annoncé l&rsquo;ajout du support du protocol UDP, l&rsquo;ajout d&rsquo;une fonctionnalité de canary et l&rsquo;amélioration de l&rsquo;interface.</p>
 
 <p>C&rsquo;est encore pour moi une excellente nouvelle. Traefik garde sa simplicité et apporte avec efficacité des nouvelles fonctionnalités très attendues.
