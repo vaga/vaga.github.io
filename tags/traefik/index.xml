@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>traefik on vaga.io</title>
+    <link>https://vaga.io/tags/traefik/</link>
+    <description>Recent content in traefik on vaga.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vaga.io/tags/traefik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discoverly #4 : Slim 4, Traefik 2...</title>
+      <link>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</guid>
+      <description>C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka. Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !
+Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.</description>
+    </item>
+    
+  </channel>
+</rss>

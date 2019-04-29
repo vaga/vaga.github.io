@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>slim on vaga.io</title>
+    <link>https://vaga.io/tags/slim/</link>
+    <description>Recent content in slim on vaga.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vaga.io/tags/slim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discoverly #2 : Traefik 2, Slim 4...</title>
+      <link>https://vaga.io/posts/discoverly-4-traefik-2-slim-4/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vaga.io/posts/discoverly-4-traefik-2-slim-4/</guid>
+      <description>Ca y&amp;rsquo;est, j&amp;rsquo;ai pris la décision de ne plus etre un simple salarié. Je suis dans mon entreprise et mes décisions sont décisives pour ma propre personne. J&amp;rsquo;ai le temps de faire ce qu&amp;rsquo;il me semble important. Bref, c&amp;rsquo;est excitant mais cela fait un peu peur&amp;hellip;
+Je vais parler de 2 outils qui ont release en alpha leur prochaine version majeure.
+Slim 4 Slim est un micro framework en PHP gérant les couches essentielles d&amp;rsquo;une API HTTP.</description>
+    </item>
+    
+  </channel>
+</rss>
