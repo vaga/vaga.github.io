@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nginx on vaga.io</title>
@@ -18,7 +18,7 @@
       <guid>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</guid>
       <description>Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
 Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)
-Le principe du blog Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace. En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très hype actuellement.</description>
+Le principe du blog Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace. En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très hype actuellement. :D</description>
     </item>
     
   </channel>
