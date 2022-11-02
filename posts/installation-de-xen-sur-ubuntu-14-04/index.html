@@ -4,11 +4,11 @@
     <title>Installation de Xen sur Ubuntu 14.04 // vaga.io</title>
     <link rel="shortcut icon" href="/favicon.ico" />
     <meta charset="utf-8" />
-    <meta name="generator" content="Hugo 0.80.0" />
+    <meta name="generator" content="Hugo 0.105.0">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Fabien CASTERS" />
     <meta name="description" content="Installation et configuration de Xen sur Ubuntu 14.04" />
-    <link rel="stylesheet" href="https://vaga.io/css/main.min.68e582a4d4ed824d6b7e3b5b37cae47eb3779bd631046379d0e68b38230cc3e2.css" />
+    <link rel="stylesheet" href="/css/main.min.0fb49e70a30412f97ddfc418e18fefef1d9fcdebe45f634dbbba768b00fe1eec.css" />
 
     
     <meta name="twitter:card" content="summary"/>
@@ -18,34 +18,35 @@
     <meta property="og:title" content="Installation de Xen sur Ubuntu 14.04" />
 <meta property="og:description" content="Installation et configuration de Xen sur Ubuntu 14.04" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/" />
+<meta property="og:url" content="https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2014-07-18T00:00:00+00:00" />
 <meta property="article:modified_time" content="2014-07-18T00:00:00+00:00" />
+
 
 
   </head>
   <body>
     <header class="app-header">
       <a href="https://vaga.io"><img class="app-header-avatar" src="/avatar.jpg" alt="Fabien CASTERS" /></a>
-      <h1>vaga.io</h1>
+      <span class="app-header-title">vaga.io</span>
       <p>I write code and I take care about my privacy // Co-founder @ Owaka // Golang lover // Open source enthusiast</p>
       <div class="app-header-social">
         
-          <a href="https://github.com/vaga" target="_blank" rel="noreferrer noopener">
+          <a href="https://github.com/vaga" target="_blank" rel="noreferrer noopener me">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
   <title>Github</title>
   <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
 </svg>
           </a>
         
-          <a href="https://twitter.com/vaga_io" target="_blank" rel="noreferrer noopener">
+          <a href="https://twitter.com/vaga_io" target="_blank" rel="noreferrer noopener me">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
   <title>Twitter</title>
   <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
 </svg>
           </a>
         
-          <a href="https://www.linkedin.com/in/fabien-casters/" target="_blank" rel="noreferrer noopener">
+          <a href="https://www.linkedin.com/in/fabien-casters/" target="_blank" rel="noreferrer noopener me">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
   <title>LinkedIn</title>
   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
@@ -95,59 +96,59 @@ Nous avons pris cette machine pour pouvoir virtualiser et déployer rapidement n
 <p>On va passé l&rsquo;étape d&rsquo;installation d&rsquo;Ubuntu 14.04 et on s&rsquo;attaque directement à l&rsquo;installation de Xen. :)</p>
 <h2 id="installation-de-xen">Installation de Xen</h2>
 <p>On commence toujours par un petit :</p>
-<pre><code># apt-get update
+<pre tabindex="0"><code># apt-get update
 # apt-get upgrade
 </code></pre><p>Et on installe Xen :</p>
-<pre><code># apt-get install xen-hypervisor
+<pre tabindex="0"><code># apt-get install xen-hypervisor
 </code></pre><p>Avant de poursuivre, il y a 2 termes à connaître : dom0 et domU.<br>
 Le dom0 est la machine physique, la mère des domU.<br>
 Le domU est donc les machines virtuelles, les enfants de dom0.</p>
 <p>On peut passer à la configuration.</p>
 <h2 id="configuration-de-base-du-dom0">Configuration de base du dom0</h2>
 <p>Pour commencer, on configure le GRUB pour qu&rsquo;il lance Xen avec Ubuntu. La variable <code>XEN_OVERRIDE_GRUB_DEFAULT</code> nous permet de le faire très simplement. (Elle n&rsquo;existe pas sur Debian) On profite d&rsquo;être dans ce fichier pour limiter la RAM du dom0 à 1Go. Il n&rsquo;a pas besoin de plus.</p>
-<pre><code># vim /etc/default/grub.d/xen.cfg
+<pre tabindex="0"><code># vim /etc/default/grub.d/xen.cfg
     XEN_OVERRIDE_GRUB_DEFAULT=1
-    GRUB_CMDLINE_XEN=&quot;dom0_mem=1024M&quot;
+    GRUB_CMDLINE_XEN=&#34;dom0_mem=1024M&#34;
 </code></pre><p>On met le grub à jour.</p>
-<pre><code># update-grub
+<pre tabindex="0"><code># update-grub
 </code></pre><p>Ensuite, nous avons le choix entre 2 méthodes pour configurer et gérer les VMs : XL et XEND.
 Cependant, XEND est une méthode dépreciée par Xen depuis la version 4.1. Donc, on suit et on choisit XL.</p>
 <p>Continuons !<br>
 On désactive la gestion automatique de la mémoire du dom0 :</p>
-<pre><code># vim /etc/xen/xl.conf
-    autoballoon=&quot;0&quot;
+<pre tabindex="0"><code># vim /etc/xen/xl.conf
+    autoballoon=&#34;0&#34;
 </code></pre><p>Lorsqu&rsquo;on regarde dans la documentation de Xen, il nous conseille de désactiver la restauration et la sauvegarde des domU car cela peut poser des problèmes.
 Faisons le :</p>
-<pre><code># vim /etc/default/xendomains
+<pre tabindex="0"><code># vim /etc/default/xendomains
     XENDOMAINS_SAVE=
     XENDOMAINS_RESTORE=false
 </code></pre><p>Voilà, on a la configuration de base pour notre dom0. On redémarre la machine pour prendre en compte les modifications :</p>
-<pre><code># reboot
+<pre tabindex="0"><code># reboot
 </code></pre><p>Nous vérifions grâce à <code>xl list</code> que notre dom0 a bien prit en compte les dernières configurations.</p>
 <h2 id="configuration-des-outils-pour-xen">Configuration des outils pour Xen</h2>
 <p>On va installer <code>xen-tools</code>. C&rsquo;est un paquet contenant des scripts Perl pour configurer les VMs :</p>
-<pre><code># apt-get install xen-tools
+<pre tabindex="0"><code># apt-get install xen-tools
 </code></pre><p>Ensuite, on crée un dossier xen dans le /home pour accueillir nos VMs.</p>
-<pre><code># mkdir /home/xen
+<pre tabindex="0"><code># mkdir /home/xen
 </code></pre><p>Nous modifions quelques configurations de xen-tools tel que le chemin du dossier contenant les VMs, l&rsquo;architecture et le format de nos VMs.</p>
-<pre><code># vim /etc/xen-tools/xen-tools.conf
+<pre tabindex="0"><code># vim /etc/xen-tools/xen-tools.conf
     dir = /home/xen
     arch = amd64
     fs = ext4
 </code></pre><h2 id="configuration-du-réseau-en-mode-bridge">Configuration du réseau en mode bridge</h2>
 <p>Nous avons un serveur qui peut accueillir des VMs. Maintenant, il faut que ces VMs puissent communiquer avec le reste du monde.</p>
 <p>On commence par ajouter une interface à notre dom0</p>
-<pre><code># vim /etc/network/interfaces
+<pre tabindex="0"><code># vim /etc/network/interfaces
     auto xenbr0
     iface xenbr0 inet dhcp
         bridge_ports eth0
 </code></pre><p>On configure <code>xen-tools</code> au niveau réseau pour nos VMs :</p>
-<pre><code># vim /etc/xen-tools/xen-tools.conf
+<pre tabindex="0"><code># vim /etc/xen-tools/xen-tools.conf
     gateway    = 94.23.240.254 (IP du dom0 avec 254 à la fin pour les offres SYS)
     netmask    = 255.255.255.255
     broadcast  = 94.23.240.XXX (IP du dom0)
 </code></pre><p>Et enfin, on autorise notre dom0 à transmettre les paquets à nos domU :</p>
-<pre><code># vim /etc/sysctl.conf
+<pre tabindex="0"><code># vim /etc/sysctl.conf
     net.ipv4.conf.eth0.proxy_arp=1
     net.ipv4.ip_forward=1
 # sysctl -p /etc/sysctl.conf
@@ -155,59 +156,59 @@ Faisons le :</p>
 <p>On a écrit un fichier que nous éditons avant chaque création de VM.
 C&rsquo;est un bon moyen pour ne pas oublier un paramètre.
 Avant de remplir ce fichier, on prend une IP diponible dans le panel de SoYouStart et on génère une adresse MAC virtuelle.</p>
-<pre><code># vim /root/create_vm.sh
-    HOSTNAME='domu.vaga.io'
-    IP='178.32.243.121'
-    MAC='00:00:00:00:00:00'
+<pre tabindex="0"><code># vim /root/create_vm.sh
+    HOSTNAME=&#39;domu.vaga.io&#39;
+    IP=&#39;178.32.243.121&#39;
+    MAC=&#39;00:00:00:00:00:00&#39;
     BROADCAST=$IP
 
-    DISTRIB='trusty'
+    DISTRIB=&#39;trusty&#39;
 
-    CPUS='4'
-    RAM='4096M'
-    DISK='100G'
+    CPUS=&#39;4&#39;
+    RAM=&#39;4096M&#39;
+    DISK=&#39;100G&#39;
 
     xen-create-image --hostname $HOSTNAME --ip $IP --broadcast $BROADCAST --mac $MAC --vcpus $CPUS --memory $RAM --size $DISK --dist $DISTRIB
 </code></pre><p>On lance notre script :</p>
-<pre><code># chmod u+x /root/create_vm
+<pre tabindex="0"><code># chmod u+x /root/create_vm
 # /root/create_vm
 </code></pre><p><strong>Attention, on vous donne votre mot de passe root vers la fin.</strong></p>
 <p>On va enfin créer et lancer notre première VM :</p>
-<pre><code># xl create /etc/xen/domu.vaga.io
+<pre tabindex="0"><code># xl create /etc/xen/domu.vaga.io
 </code></pre><p>Ca y&rsquo;est, notre VM est en place. Avec un <code>xl list</code>, on peut vérifier qu&rsquo;elle tourne avec les bonnes configurations.
 Ensuite, on se connecte via :</p>
-<pre><code># xl console domu.vaga.io
+<pre tabindex="0"><code># xl console domu.vaga.io
 </code></pre><p>On se connecte en root avec le mot de passe donné à la fin de l&rsquo;installation. On ajoute les routes nécessaire afin d&rsquo;avoir Internet.</p>
-<pre><code>domU # vi /etc/network/interface
+<pre tabindex="0"><code>domU # vi /etc/network/interface
             post-up route add 94.23.240.254 dev eth0
             post-up route add default gw 94.23.240.254
             pre-down route del 94.23.240.254 dev eth0
             pre-down route del default gw 94.23.240.254
 </code></pre><p>On reboot la VM.</p>
-<pre><code>domU # reboot
+<pre tabindex="0"><code>domU # reboot
 </code></pre><p>On se reconnecte à la VM :</p>
-<pre><code># xl console minecraft.wayt.me
+<pre tabindex="0"><code># xl console minecraft.wayt.me
 </code></pre><p>On vérifie avec un petit <code>ping google.fr</code>.</p>
 <p>Tadaaaa, nous avons notre première VM.<br>
 Il reste à securiser les services actifs et à installer d&rsquo;autres services. Mais ca, je vous laisse faire. :)</p>
 <p>Une astuce avant de conclure, on peut ajouter un script après la création de la VM. Il faut ajouter l&rsquo;option <code>--role</code> suivi du path du script à la commande <code>xen-create-image</code>. Nous utilisons ce script :</p>
-<pre><code>#!/bin/sh
+<pre tabindex="0"><code>#!/bin/sh
 
 prefix=$1
 
 if [ -e /usr/share/xen-tools/common.sh ]; then
     . /usr/share/xen-tools/common.sh
 else
-    echo &quot;Installation problem&quot;
+    echo &#34;Installation problem&#34;
 fi
 
 # Add default route
-sed '/iface eth0 inet static/a post-up route add 94.23.240.254 dev eth0\n post-up route add default gw 94.23.240.254\n pre-down route del 94.23.240.254 dev eth0\n pre-down route del default gw 94.23.240.254' -i ${prefix}/etc/network/interfaces
+sed &#39;/iface eth0 inet static/a post-up route add 94.23.240.254 dev eth0\n post-up route add default gw 94.23.240.254\n pre-down route del 94.23.240.254 dev eth0\n pre-down route del default gw 94.23.240.254&#39; -i ${prefix}/etc/network/interfaces
 
 # Install munin-node
 chroot ${prefix} apt-get update
 chroot ${prefix} apt-get install munin-node -y
-sed '/allow ^127\\.0\\.0\\.1\$/aallow ^94\\.23\\.240\\.159\$' -i ${prefix}/etc/munin/munin-node.conf
+sed &#39;/allow ^127\\.0\\.0\\.1\$/aallow ^94\\.23\\.240\\.159\$&#39; -i ${prefix}/etc/munin/munin-node.conf
 
 # Install tools
 chroot ${prefix} apt-get install vim htop -y

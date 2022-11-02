@@ -48,7 +48,7 @@ Hugo Hugo est un générateur de site web statique, développé en Golang.</desc
 Nous cherchions un moyen rapide et simple pour partager des fichiers.
 Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)
 Pour faire vite fait le tour, on a :
- un service en golang qui nous permet de stocker les fichiers (une micro API) une interface web très minimaliste un binaire pour envoyer un fichier depuis un terminal  Le tout est sur une image Docker prêt à être déployé :</description>
+un service en golang qui nous permet de stocker les fichiers (une micro API) une interface web très minimaliste un binaire pour envoyer un fichier depuis un terminal Le tout est sur une image Docker prêt à être déployé :</description>
     </item>
     
   </channel>

@@ -4,11 +4,11 @@
     <title>Discoverly #4 : Slim 4, Traefik 2... // vaga.io</title>
     <link rel="shortcut icon" href="/favicon.ico" />
     <meta charset="utf-8" />
-    <meta name="generator" content="Hugo 0.80.0" />
+    <meta name="generator" content="Hugo 0.105.0">
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Fabien CASTERS" />
     <meta name="description" content="" />
-    <link rel="stylesheet" href="https://vaga.io/css/main.min.68e582a4d4ed824d6b7e3b5b37cae47eb3779bd631046379d0e68b38230cc3e2.css" />
+    <link rel="stylesheet" href="/css/main.min.0fb49e70a30412f97ddfc418e18fefef1d9fcdebe45f634dbbba768b00fe1eec.css" />
 
     
     <meta name="twitter:card" content="summary"/>
@@ -20,34 +20,35 @@ Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version al
 <meta property="og:description" content="C&rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&rsquo;embaucher chez Owaka. Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&rsquo;est le moment d&rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&rsquo;est excitant !
 Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://vaga.io/posts/discoverly-4-slim-4-traefik-2/" />
+<meta property="og:url" content="https://vaga.io/posts/discoverly-4-slim-4-traefik-2/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2019-04-29T00:00:00+00:00" />
 <meta property="article:modified_time" content="2019-04-29T00:00:00+00:00" />
+
 
 
   </head>
   <body>
     <header class="app-header">
       <a href="https://vaga.io"><img class="app-header-avatar" src="/avatar.jpg" alt="Fabien CASTERS" /></a>
-      <h1>vaga.io</h1>
+      <span class="app-header-title">vaga.io</span>
       <p>I write code and I take care about my privacy // Co-founder @ Owaka // Golang lover // Open source enthusiast</p>
       <div class="app-header-social">
         
-          <a href="https://github.com/vaga" target="_blank" rel="noreferrer noopener">
+          <a href="https://github.com/vaga" target="_blank" rel="noreferrer noopener me">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-github">
   <title>Github</title>
   <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
 </svg>
           </a>
         
-          <a href="https://twitter.com/vaga_io" target="_blank" rel="noreferrer noopener">
+          <a href="https://twitter.com/vaga_io" target="_blank" rel="noreferrer noopener me">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-twitter">
   <title>Twitter</title>
   <path d="M23 3a10.9 10.9 0 0 1-3.14 1.53 4.48 4.48 0 0 0-7.86 3v1A10.66 10.66 0 0 1 3 4s-4 9 5 13a11.64 11.64 0 0 1-7 2c9 5 20 0 20-11.5a4.5 4.5 0 0 0-.08-.83A7.72 7.72 0 0 0 23 3z"></path>
 </svg>
           </a>
         
-          <a href="https://www.linkedin.com/in/fabien-casters/" target="_blank" rel="noreferrer noopener">
+          <a href="https://www.linkedin.com/in/fabien-casters/" target="_blank" rel="noreferrer noopener me">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-linkedin">
   <title>LinkedIn</title>
   <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
@@ -104,7 +105,7 @@ Cela va permettre de mieux customiser et intéragir avec les exceptions.</p>
 <p>Ils ont aussi découplé les dépendances et amélioré l&rsquo;interopérabilité des implémentations (PSR-7, PSR-11, PSR-15, PSR-17 et aussi
 sur les interfaces du routeur). Malgré tout, l&rsquo;instanciation d&rsquo;une application Slim reste simple grâce à une factory. (<code>AppFactory::create()</code>)</p>
 <p>Ces changements ont rendu le code de Slim plus lisible. On le voit clairement grâce à un benchmark qu&rsquo;Akrabat a publié sur son blog :</p>
-<pre><code>                                    Slim 3    Slim 4-dev
+<pre tabindex="0"><code>                                    Slim 3    Slim 4-dev
 Cyclomatic Complexity
   Average Complexity per LLOC         0.30          0.18
   Average Complexity per Class       10.40          4.76
@@ -113,7 +114,6 @@ Cyclomatic Complexity
   Average Complexity per Method       2.44          2.05
     Minimum Method Complexity         1.00          1.00
     Maximum Method Complexity        15.00         15.00
-
 </code></pre><p>Source : <a href="https://gist.github.com/akrabat/6b486ecd861105301a194cbf1e360dc4">Slim 3 vs Slim 4-dev phploc</a></p>
 <p>C&rsquo;est pour moi une excellente nouvelle version : plus de modularité, plus de qualité et moins de code. J&rsquo;ai hâte de pouvoir migrer vers
 la version stable.</p>
