@@ -4,85 +4,58 @@
     <title>vaga.io</title>
     <link>https://vaga.io/</link>
     <description>Recent content on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discoverly #4 : Slim 4, Traefik 2...</title>
       <link>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</guid>
-      <description>C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka. Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !
-Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.</description>
+      <description>&lt;p&gt;C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka.&#xA;Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment&#xA;d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !&lt;/p&gt;&#xA;&lt;p&gt;Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #3 : DotGo 2019...</title>
       <link>https://vaga.io/posts/discoverly-3-dotgo-2019/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-3-dotgo-2019/</guid>
-      <description>J&amp;rsquo;ai attendu un peu pour faire ce discoverly. Il va etre centré sur 6 sujets qui ont retenu mon attention à la dotGo 2019. (dont je me souviens, car je n&amp;rsquo;ai pas pris de note&amp;hellip;)
-dotGo 2019 Les dot conférences organisent des journées de talks avec les meilleurs speakers du sujet représenté dont une journée sur Golang.
-C&amp;rsquo;est ma deuxième participation à une dotGo. Elle se déroule au Théatre de Paris.</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai attendu un peu pour faire ce discoverly. Il va etre centré sur 6 sujets qui ont retenu mon attention&#xA;à la dotGo 2019. (dont je me souviens, car je n&amp;rsquo;ai pas pris de note&amp;hellip;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;dotgo-2019&#34;&gt;dotGo 2019&lt;/h2&gt;&#xA;&lt;p&gt;Les dot conférences organisent des journées de talks avec les meilleurs speakers du sujet représenté dont&#xA;une journée sur Golang.&lt;/p&gt;&#xA;&lt;p&gt;C&amp;rsquo;est ma deuxième participation à une dotGo. Elle se déroule au Théatre de Paris.&#xA;Durant cette jounée, il y a eu 12 talks et 5 lightning talks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #2 : Qwant, AFUP Lorraine...</title>
       <link>https://vaga.io/posts/discoverly-2-qwant-afup-lorraine/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-2-qwant-afup-lorraine/</guid>
-      <description>C&amp;rsquo;est pas évident cet exercice d&amp;rsquo;écrire et de sortir un article par mois. Ca passe vite !
-Voici donc le deuxième Discoverly, il parle de Qwant, de l&amp;rsquo;AFUP Lorraine et 3 liens que j&amp;rsquo;ai jugé intéressant à partager.
-Qwant Qwant est un moteur de recherche développé en France. Il se distingue grandement de ses concurrents car il ne trace pas et ne récupère pas d&amp;rsquo;informations personnelles sur ses utilisateurs.
-Depuis ~5 mois, j&amp;rsquo;utilise uniquement ce moteur de recherche que ce soit pour des recherches personnelles ou professionnelles sur mon téléphone et mes PCs.</description>
+      <description>&lt;p&gt;C&amp;rsquo;est pas évident cet exercice d&amp;rsquo;écrire et de sortir un article par mois. Ca passe vite !&lt;br&gt;&#xA;Voici donc le deuxième Discoverly, il parle de Qwant, de l&amp;rsquo;AFUP Lorraine et 3 liens que j&amp;rsquo;ai jugé intéressant à partager.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qwant&#34;&gt;Qwant&lt;/h2&gt;&#xA;&lt;p&gt;Qwant est un moteur de recherche développé en France. Il se distingue grandement de ses concurrents car il&#xA;ne trace pas et ne récupère pas d&amp;rsquo;informations personnelles sur ses utilisateurs.&lt;/p&gt;&#xA;&lt;p&gt;Depuis ~5 mois, j&amp;rsquo;utilise uniquement ce moteur de recherche que ce soit pour des recherches personnelles ou professionnelles sur mon téléphone et mes PCs.&#xA;Il est sans doute un poil moins performant pour certaines recherches mais la plupart du temps, en ajoutant un ou deux mots clés en plus, je trouve mon bonheur.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #1 : Hugo, Loki, Todoist...</title>
       <link>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</guid>
-      <description>En 2019, je souhaite faire un article par mois sur mon blog. Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager. C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.
-Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.
-Hugo Hugo est un générateur de site web statique, développé en Golang.</description>
+      <description>&lt;p&gt;En 2019, je souhaite faire un article par mois sur mon blog.&#xA;Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager.&#xA;C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.&lt;/p&gt;&#xA;&lt;p&gt;Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo est un générateur de site web statique, développé en Golang.&#xA;Il permet de générer des pages web (HTML, CSS, flux RSS&amp;hellip;) et de les héberger sur un simple service HTTP comme Github Pages.&#xA;Il est constitué de fichiers templates Golang et de l&amp;rsquo;arboresence du contenu écrit en Markdown.&#xA;Il est difficile de faire plus simple.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Partager rapidement un fichier avec byt.tl</title>
       <link>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</guid>
-      <description>Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec Wayt.
-Nous cherchions un moyen rapide et simple pour partager des fichiers.
-Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)
-Pour faire vite fait le tour, on a :
-un service en golang qui nous permet de stocker les fichiers (une micro API) une interface web très minimaliste un binaire pour envoyer un fichier depuis un terminal Le tout est sur une image Docker prêt à être déployé :</description>
+      <description>&lt;p&gt;Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec &lt;a href=&#34;http://wayt.me&#34;&gt;Wayt&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Nous cherchions un moyen rapide et simple pour partager des fichiers.&lt;br&gt;&#xA;Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)&lt;/p&gt;&#xA;&lt;p&gt;Pour faire vite fait le tour, on a :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;un service en golang qui nous permet de stocker les fichiers (une micro API)&lt;/li&gt;&#xA;&lt;li&gt;une interface web très minimaliste&lt;/li&gt;&#xA;&lt;li&gt;un binaire pour envoyer un fichier depuis un terminal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Le tout est sur une image Docker prêt à être déployé :&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Installation de Xen sur Ubuntu 14.04</title>
       <link>https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/installation-de-xen-sur-ubuntu-14-04/</guid>
-      <description>Depuis 3 mois, avec un ami, nous louons un serveur de la gamme IP chez SoYouStart. C&amp;rsquo;est un serveur de 4 coeurs, 48 Go de RAM et 2 To de disc durs. Dans cette gamme, on a aussi le droit à 16 IPs. Nous avons pris cette machine pour pouvoir virtualiser et déployer rapidement nos projets et nos tests.
-Ca a un coût mais il me fallait un serveur personnel alors pourquoi pas partager les frais avec quelqu&amp;rsquo;un et se faire plaisir.</description>
+      <description>&lt;p&gt;Depuis 3 mois, avec un ami, nous louons un serveur de la gamme IP chez SoYouStart.&#xA;C&amp;rsquo;est un serveur de 4 coeurs, 48 Go de RAM et 2 To de disc durs.&#xA;Dans cette gamme, on a aussi le droit à 16 IPs.&#xA;Nous avons pris cette machine pour pouvoir virtualiser et déployer rapidement nos projets et nos tests.&lt;/p&gt;&#xA;&lt;p&gt;Ca a un coût mais il me fallait un serveur personnel alors pourquoi pas partager les frais avec quelqu&amp;rsquo;un et se faire plaisir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Le premier article, c&#39;est quoi ce blog ?</title>
       <link>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</guid>
-      <description>Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
-Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)
-Le principe du blog Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace. En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très hype actuellement. :D</description>
+      <description>&lt;p&gt;Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.&lt;/p&gt;&#xA;&lt;p&gt;Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-principe-du-blog&#34;&gt;Le principe du blog&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace.&#xA;En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très &lt;strong&gt;hype&lt;/strong&gt; actuellement. :D&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

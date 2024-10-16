@@ -1,54 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>discoverly on vaga.io</title>
+    <title>Discoverly on vaga.io</title>
     <link>https://vaga.io/tags/discoverly/</link>
-    <description>Recent content in discoverly on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/tags/discoverly/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Discoverly on vaga.io</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/tags/discoverly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discoverly #4 : Slim 4, Traefik 2...</title>
       <link>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</guid>
-      <description>C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka. Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !
-Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.</description>
+      <description>&lt;p&gt;C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka.&#xA;Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment&#xA;d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !&lt;/p&gt;&#xA;&lt;p&gt;Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #3 : DotGo 2019...</title>
       <link>https://vaga.io/posts/discoverly-3-dotgo-2019/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-3-dotgo-2019/</guid>
-      <description>J&amp;rsquo;ai attendu un peu pour faire ce discoverly. Il va etre centré sur 6 sujets qui ont retenu mon attention à la dotGo 2019. (dont je me souviens, car je n&amp;rsquo;ai pas pris de note&amp;hellip;)
-dotGo 2019 Les dot conférences organisent des journées de talks avec les meilleurs speakers du sujet représenté dont une journée sur Golang.
-C&amp;rsquo;est ma deuxième participation à une dotGo. Elle se déroule au Théatre de Paris.</description>
+      <description>&lt;p&gt;J&amp;rsquo;ai attendu un peu pour faire ce discoverly. Il va etre centré sur 6 sujets qui ont retenu mon attention&#xA;à la dotGo 2019. (dont je me souviens, car je n&amp;rsquo;ai pas pris de note&amp;hellip;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;dotgo-2019&#34;&gt;dotGo 2019&lt;/h2&gt;&#xA;&lt;p&gt;Les dot conférences organisent des journées de talks avec les meilleurs speakers du sujet représenté dont&#xA;une journée sur Golang.&lt;/p&gt;&#xA;&lt;p&gt;C&amp;rsquo;est ma deuxième participation à une dotGo. Elle se déroule au Théatre de Paris.&#xA;Durant cette jounée, il y a eu 12 talks et 5 lightning talks.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #2 : Qwant, AFUP Lorraine...</title>
       <link>https://vaga.io/posts/discoverly-2-qwant-afup-lorraine/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-2-qwant-afup-lorraine/</guid>
-      <description>C&amp;rsquo;est pas évident cet exercice d&amp;rsquo;écrire et de sortir un article par mois. Ca passe vite !
-Voici donc le deuxième Discoverly, il parle de Qwant, de l&amp;rsquo;AFUP Lorraine et 3 liens que j&amp;rsquo;ai jugé intéressant à partager.
-Qwant Qwant est un moteur de recherche développé en France. Il se distingue grandement de ses concurrents car il ne trace pas et ne récupère pas d&amp;rsquo;informations personnelles sur ses utilisateurs.
-Depuis ~5 mois, j&amp;rsquo;utilise uniquement ce moteur de recherche que ce soit pour des recherches personnelles ou professionnelles sur mon téléphone et mes PCs.</description>
+      <description>&lt;p&gt;C&amp;rsquo;est pas évident cet exercice d&amp;rsquo;écrire et de sortir un article par mois. Ca passe vite !&lt;br&gt;&#xA;Voici donc le deuxième Discoverly, il parle de Qwant, de l&amp;rsquo;AFUP Lorraine et 3 liens que j&amp;rsquo;ai jugé intéressant à partager.&lt;/p&gt;&#xA;&lt;h2 id=&#34;qwant&#34;&gt;Qwant&lt;/h2&gt;&#xA;&lt;p&gt;Qwant est un moteur de recherche développé en France. Il se distingue grandement de ses concurrents car il&#xA;ne trace pas et ne récupère pas d&amp;rsquo;informations personnelles sur ses utilisateurs.&lt;/p&gt;&#xA;&lt;p&gt;Depuis ~5 mois, j&amp;rsquo;utilise uniquement ce moteur de recherche que ce soit pour des recherches personnelles ou professionnelles sur mon téléphone et mes PCs.&#xA;Il est sans doute un poil moins performant pour certaines recherches mais la plupart du temps, en ajoutant un ou deux mots clés en plus, je trouve mon bonheur.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #1 : Hugo, Loki, Todoist...</title>
       <link>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</guid>
-      <description>En 2019, je souhaite faire un article par mois sur mon blog. Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager. C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.
-Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.
-Hugo Hugo est un générateur de site web statique, développé en Golang.</description>
+      <description>&lt;p&gt;En 2019, je souhaite faire un article par mois sur mon blog.&#xA;Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager.&#xA;C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.&lt;/p&gt;&#xA;&lt;p&gt;Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo est un générateur de site web statique, développé en Golang.&#xA;Il permet de générer des pages web (HTML, CSS, flux RSS&amp;hellip;) et de les héberger sur un simple service HTTP comme Github Pages.&#xA;Il est constitué de fichiers templates Golang et de l&amp;rsquo;arboresence du contenu écrit en Markdown.&#xA;Il est difficile de faire plus simple.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

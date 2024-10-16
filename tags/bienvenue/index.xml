@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bienvenue on vaga.io</title>
+    <title>Bienvenue on vaga.io</title>
     <link>https://vaga.io/tags/bienvenue/</link>
-    <description>Recent content in bienvenue on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Jul 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/tags/bienvenue/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Bienvenue on vaga.io</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Wed, 02 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/tags/bienvenue/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le premier article, c&#39;est quoi ce blog ?</title>
       <link>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</guid>
-      <description>Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
-Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)
-Le principe du blog Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace. En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très hype actuellement. :D</description>
+      <description>&lt;p&gt;Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.&lt;/p&gt;&#xA;&lt;p&gt;Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-principe-du-blog&#34;&gt;Le principe du blog&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace.&#xA;En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très &lt;strong&gt;hype&lt;/strong&gt; actuellement. :D&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

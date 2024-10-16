@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>service on vaga.io</title>
+    <title>Service on vaga.io</title>
     <link>https://vaga.io/tags/service/</link>
-    <description>Recent content in service on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Service on vaga.io</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/tags/service/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Partager rapidement un fichier avec byt.tl</title>
       <link>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</guid>
-      <description>Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec Wayt.
-Nous cherchions un moyen rapide et simple pour partager des fichiers.
-Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)
-Pour faire vite fait le tour, on a :
-un service en golang qui nous permet de stocker les fichiers (une micro API) une interface web très minimaliste un binaire pour envoyer un fichier depuis un terminal Le tout est sur une image Docker prêt à être déployé :</description>
+      <description>&lt;p&gt;Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec &lt;a href=&#34;http://wayt.me&#34;&gt;Wayt&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Nous cherchions un moyen rapide et simple pour partager des fichiers.&lt;br&gt;&#xA;Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)&lt;/p&gt;&#xA;&lt;p&gt;Pour faire vite fait le tour, on a :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;un service en golang qui nous permet de stocker les fichiers (une micro API)&lt;/li&gt;&#xA;&lt;li&gt;une interface web très minimaliste&lt;/li&gt;&#xA;&lt;li&gt;un binaire pour envoyer un fichier depuis un terminal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Le tout est sur une image Docker prêt à être déployé :&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>devops on vaga.io</title>
+    <title>Devops on vaga.io</title>
     <link>https://vaga.io/tags/devops/</link>
-    <description>Recent content in devops on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Devops on vaga.io</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Discoverly #4 : Slim 4, Traefik 2...</title>
       <link>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-4-slim-4-traefik-2/</guid>
-      <description>C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka. Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !
-Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.</description>
+      <description>&lt;p&gt;C&amp;rsquo;est fait ! La décision a été prise, je ne suis plus un simple salarié. Nous venons de m&amp;rsquo;embaucher chez Owaka.&#xA;Cela fait déjà 7 ans que nous avons monté cette entreprise. Je suis le premier salarié et c&amp;rsquo;est le moment&#xA;d&amp;rsquo;accélerer les développements pour faire évoluer plus rapidement notre solution. C&amp;rsquo;est excitant !&lt;/p&gt;&#xA;&lt;p&gt;Ce mois-ci, je vais présenter deux projets qui viennent de sortir la version alpha de leur prochaine release majeure.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Discoverly #1 : Hugo, Loki, Todoist...</title>
       <link>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/discoverly-1-hugo-loki-todoist/</guid>
-      <description>En 2019, je souhaite faire un article par mois sur mon blog. Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager. C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.
-Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.
-Hugo Hugo est un générateur de site web statique, développé en Golang.</description>
+      <description>&lt;p&gt;En 2019, je souhaite faire un article par mois sur mon blog.&#xA;Plutôt que de choisir un sujet, je vais mettre en vrac quelques sujets que je souhaite partager.&#xA;C&amp;rsquo;est aussi un bon moyen pour moi de garder une trace de ce que je découvre sur Internet.&lt;/p&gt;&#xA;&lt;p&gt;Pour ce premier article mensuel, je vais vous présenter Hugo, Loki et Todoist.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&#xA;&lt;p&gt;Hugo est un générateur de site web statique, développé en Golang.&#xA;Il permet de générer des pages web (HTML, CSS, flux RSS&amp;hellip;) et de les héberger sur un simple service HTTP comme Github Pages.&#xA;Il est constitué de fichiers templates Golang et de l&amp;rsquo;arboresence du contenu écrit en Markdown.&#xA;Il est difficile de faire plus simple.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

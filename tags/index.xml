@@ -4,223 +4,177 @@
     <title>Tags on vaga.io</title>
     <link>https://vaga.io/tags/</link>
     <description>Recent content in Tags on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>devops</title>
+      <title>Devops</title>
       <link>https://vaga.io/tags/devops/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/devops/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>discoverly</title>
+      <title>Discoverly</title>
       <link>https://vaga.io/tags/discoverly/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/discoverly/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>golang</title>
+      <title>Golang</title>
       <link>https://vaga.io/tags/golang/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/golang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>php</title>
+      <title>Php</title>
       <link>https://vaga.io/tags/php/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/php/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>slimphp</title>
+      <title>Slimphp</title>
       <link>https://vaga.io/tags/slimphp/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/slimphp/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>traefik</title>
+      <title>Traefik</title>
       <link>https://vaga.io/tags/traefik/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/traefik/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dotgo</title>
+      <title>Dotgo</title>
       <link>https://vaga.io/tags/dotgo/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/dotgo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>meetup</title>
+      <title>Meetup</title>
       <link>https://vaga.io/tags/meetup/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/meetup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>afup</title>
+      <title>Afup</title>
       <link>https://vaga.io/tags/afup/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/afup/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>privacy</title>
+      <title>Privacy</title>
       <link>https://vaga.io/tags/privacy/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/privacy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>qwant</title>
+      <title>Qwant</title>
       <link>https://vaga.io/tags/qwant/</link>
       <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/qwant/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://vaga.io/tags/hugo/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/hugo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>loki</title>
+      <title>Loki</title>
       <link>https://vaga.io/tags/loki/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/loki/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>productivité</title>
+      <title>Productivité</title>
       <link>https://vaga.io/tags/productivit%C3%A9/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/productivit%C3%A9/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>todoist</title>
+      <title>Todoist</title>
       <link>https://vaga.io/tags/todoist/</link>
       <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/todoist/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>docker</title>
+      <title>Docker</title>
       <link>https://vaga.io/tags/docker/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/docker/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>service</title>
+      <title>Service</title>
       <link>https://vaga.io/tags/service/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/service/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web</title>
+      <title>Web</title>
       <link>https://vaga.io/tags/web/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/web/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sysadmin</title>
+      <title>Sysadmin</title>
       <link>https://vaga.io/tags/sysadmin/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/sysadmin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ubuntu</title>
+      <title>Ubuntu</title>
       <link>https://vaga.io/tags/ubuntu/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/ubuntu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>xen</title>
+      <title>Xen</title>
       <link>https://vaga.io/tags/xen/</link>
       <pubDate>Fri, 18 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/xen/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>bienvenue</title>
+      <title>Bienvenue</title>
       <link>https://vaga.io/tags/bienvenue/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/bienvenue/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nginx</title>
+      <title>Nginx</title>
       <link>https://vaga.io/tags/nginx/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/nginx/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nodejs</title>
+      <title>Nodejs</title>
       <link>https://vaga.io/tags/nodejs/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/tags/nodejs/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

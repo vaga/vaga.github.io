@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on vaga.io</title>
+    <title>Web on vaga.io</title>
     <link>https://vaga.io/tags/web/</link>
-    <description>Recent content in web on vaga.io</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://vaga.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Web on vaga.io</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 24 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vaga.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Partager rapidement un fichier avec byt.tl</title>
       <link>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</link>
       <pubDate>Thu, 24 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/partager-rapidement-un-fichier-avec-byttl/</guid>
-      <description>Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec Wayt.
-Nous cherchions un moyen rapide et simple pour partager des fichiers.
-Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)
-Pour faire vite fait le tour, on a :
-un service en golang qui nous permet de stocker les fichiers (une micro API) une interface web très minimaliste un binaire pour envoyer un fichier depuis un terminal Le tout est sur une image Docker prêt à être déployé :</description>
+      <description>&lt;p&gt;Je fais un petit article pour présenter un service que j&amp;rsquo;ai réalisé avec &lt;a href=&#34;http://wayt.me&#34;&gt;Wayt&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Nous cherchions un moyen rapide et simple pour partager des fichiers.&lt;br&gt;&#xA;Le principe était de pouvoir le décliner sur plusieurs plateformes (un site web, un terminal&amp;hellip;)&lt;/p&gt;&#xA;&lt;p&gt;Pour faire vite fait le tour, on a :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;un service en golang qui nous permet de stocker les fichiers (une micro API)&lt;/li&gt;&#xA;&lt;li&gt;une interface web très minimaliste&lt;/li&gt;&#xA;&lt;li&gt;un binaire pour envoyer un fichier depuis un terminal&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Le tout est sur une image Docker prêt à être déployé :&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Le premier article, c&#39;est quoi ce blog ?</title>
       <link>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</link>
       <pubDate>Wed, 02 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://vaga.io/posts/premier-article-c-est-quoi-ce-blog/</guid>
-      <description>Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.
-Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)
-Le principe du blog Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace. En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très hype actuellement. :D</description>
+      <description>&lt;p&gt;Depuis 2 ou 3 ans, j&amp;rsquo;ai envie d’écrire des articles sur mes découvertes et mes humeurs de développeur.&lt;/p&gt;&#xA;&lt;p&gt;Pour inaugurer ce blog, je vais vous expliquer le fonctionnement de celui-ci. :)&lt;/p&gt;&#xA;&lt;h2 id=&#34;le-principe-du-blog&#34;&gt;Le principe du blog&lt;/h2&gt;&#xA;&lt;p&gt;Je n&amp;rsquo;avais pas envie d&amp;rsquo;installer un CMS comme Wordpress ou Dotclear. Je voulais un système simple, léger et efficace.&#xA;En plus de ces 3 critères, je souhaitais découvrir NodeJS. C&amp;rsquo;est une technologie très &lt;strong&gt;hype&lt;/strong&gt; actuellement. :D&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
